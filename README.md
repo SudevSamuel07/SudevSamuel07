@@ -87,4 +87,14 @@
 
 ---
 
+## 🎮 Pac-Man Contributions
+
+<div align="center">
+  
+![Pac-Man Contributions](https://github.com/SudevSamuel07/SudevSamuel07/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 </div>
