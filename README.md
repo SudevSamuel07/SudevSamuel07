@@ -87,7 +87,7 @@
 
 ---
 
-## 🎮 Pac-Man Contributions
+## Contributions
 
 <div align="center">
   
