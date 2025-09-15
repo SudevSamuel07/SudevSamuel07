@@ -13,7 +13,6 @@
 🔭 I'm passionate about **Natural Language Processing**, **Web Development**, and **Machine Learning**  
 🌱 Currently exploring advanced **NLP techniques** and **clinical data analysis**  
 💡 Love building innovative solutions that bridge technology and real-world problems  
-🎵 Interested in **music analysis** and **
 
 ---
 
